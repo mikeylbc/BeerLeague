@@ -159,8 +159,7 @@ export const managers = [
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    },
-           {
+    {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "1120465655418994688",
       "name": "BigTexasRedOC",
@@ -183,8 +182,7 @@ export const managers = [
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-     },
-           {
+    {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "1122305678418804736",
       "name": "Freefall74",
@@ -206,8 +204,8 @@ export const managers = [
       "philosophy": "Your fantasy team's philosophy",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },    
-          {
+      },
+    {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "1121459438554099712",
       "name": "mikeylbc",
@@ -229,7 +227,7 @@ export const managers = [
       "philosophy": "Your fantasy team's philosophy",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    }
+    },
   ]
   
   
