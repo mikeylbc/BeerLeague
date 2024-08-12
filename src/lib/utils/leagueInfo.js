@@ -21,8 +21,8 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "managerID" : "910745964112359424",
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID" : "910745964112359424",
       "name": "ElSanchosucio",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Brooklyn", // (optional)
@@ -44,8 +44,8 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID" : "981700252686184448",
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID" : "981700252686184448",
       "name": "bdogbegin",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Brooklyn", // (optional)
@@ -67,8 +67,8 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID" : "981700252686184448",
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID" : "981700252686184448",
       "name": "Mattalive",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Brooklyn", // (optional)
@@ -90,8 +90,8 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
    {
-      "managerID" : "1120458065326776320",
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID" : "1120458065326776320",
       "name": "BrainofJ",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Brooklyn", // (optional)
