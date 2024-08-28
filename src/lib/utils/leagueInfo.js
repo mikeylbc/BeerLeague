@@ -9,6 +9,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 export const homepageText = `
   <p>Welcome Beer League</p>
   <p>Last Year's Winner = Matt the Turd!</p>  
+  <p>Sean can suck it</p>  
 `;
 
 /*   STEP 3   */
